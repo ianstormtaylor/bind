@@ -2,8 +2,8 @@
   "name": "bind",
   "repo": "ianstormtaylor/bind",
   "license": "MIT",
-  "version": "0.0.5",
-  "description": "Function binding helpers.",
+  "version": "0.0.1",
+  "description": "A clear API for function binding helpers.",
   "keywords": ["function", "bind", "method", "all"],
   "dependencies": {
     "component/bind": "*",

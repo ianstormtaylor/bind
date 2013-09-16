@@ -1,6 +1,6 @@
 # bind
   
-  Function binding helpers.
+  A clear API for function binding helpers.
 
 ## Installation
 
