@@ -5,6 +5,7 @@
 ## Installation
 
     $ component install ianstormtaylor/bind
+    $ npm install ianstormtaylor/bind
 
 ## Example
 
