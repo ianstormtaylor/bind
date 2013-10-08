@@ -18,7 +18,7 @@ var object = {
 };
 
 // bind a single method
-var method = bind(object, object.one);
+object.one = bind(object, object.one);
 
 // bind certain methods
 bind.methods(object, 'one', 'two');
